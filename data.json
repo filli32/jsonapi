@@ -14,34 +14,40 @@
      "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
 
      
-  {        "id": 3,   
+  {        "id": 4,   
     "title": "Article 3",    
    "description": "This is a description of article 3.",  
      "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
      
-  {        "id": 3,   
+  {        "id": 5,   
     "title": "Article 3",    
    "description": "This is a description of article 3.",  
      "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
      
-  {        "id": 3,   
+  {        "id": 6,   
     "title": "Article 3",    
    "description": "This is a description of article 3.",  
      "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
      
-  {        "id": 3,   
+  {        "id": 7,   
     "title": "Article 3",    
    "description": "This is a description of article 3.",  
      "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
      
-  {        "id": 3,   
+  {        "id": 8,   
     "title": "Article 3",    
    "description": "This is a description of article 3.",  
      "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
     
-     {        "id": 3,   
-    "title": "Article 3",    
+     {        "id": 9,   
+    "title": "Article 9",    
+   "description": "This is a description of article 3.",  
+     "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
+ 
+ {        "id": 10,   
+    "title": "Article 9",    
    "description": "This is a description of article 3.",  
      "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    }
+
     
     ]
