@@ -37,8 +37,11 @@
   {        "id": 3,   
     "title": "Article 3",    
    "description": "This is a description of article 3.",  
+     "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    },
+    
+     {        "id": 3,   
+    "title": "Article 3",    
+   "description": "This is a description of article 3.",  
      "thumbnail_url": "https://example.com/article3_thumbnail.jpg"    }
-    
-    
     
     ]
